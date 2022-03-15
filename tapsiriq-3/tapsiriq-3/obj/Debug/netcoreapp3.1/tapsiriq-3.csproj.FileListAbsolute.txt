@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.exe
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.deps.json
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.runtimeconfig.json
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.dll
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\bin\Debug\netcoreapp3.1\tapsiriq-3.pdb
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.dll
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.pdb
+C:\Users\emil code\Desktop\c# falan\tapsiriq-3\tapsiriq-3\obj\Debug\netcoreapp3.1\tapsiriq-3.genruntimeconfig.cache

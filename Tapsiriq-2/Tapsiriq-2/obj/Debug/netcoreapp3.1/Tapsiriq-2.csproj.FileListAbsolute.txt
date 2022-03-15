@@ -1,0 +1,14 @@
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.exe
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.deps.json
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.runtimeconfig.json
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.runtimeconfig.dev.json
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.dll
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\bin\Debug\netcoreapp3.1\Tapsiriq-2.pdb
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.csproj.AssemblyReference.cache
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.AssemblyInfoInputs.cache
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.AssemblyInfo.cs
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.csproj.CoreCompileInputs.cache
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.dll
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.pdb
+C:\Users\emil code\Desktop\c# falan\Tapsiriq-2\Tapsiriq-2\obj\Debug\netcoreapp3.1\Tapsiriq-2.genruntimeconfig.cache
